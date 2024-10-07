@@ -1,2 +1,2 @@
 # Simple-codes
-Simple and easy projects
+Simple and easy projects.
